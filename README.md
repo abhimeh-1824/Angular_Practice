@@ -1,2 +1,2 @@
 # Angular_Practice
-This is my angular practice and project srepository
+This is my angular practice and projects repository
